@@ -12,10 +12,14 @@
 
 ## Preview
 You can see the preview videos on assets folder. Pleaes download and check them.
-1. Android Video : <a href="assets/preview_android.mp4">See Here</a><br>
-2. iOS Video : <a href="assets/preview_ios.mov">See Here</a><br>
-3. MacOS Video : <a href="assets/preview_macos.mov">See Here</a><br>
-4. Web Video : <a href="assets/preview_web.mov">See Here</a><br>
+1. Android Video : <a href="assets/preview_android.mp4">See Detail</a><br>
+	![Alt Text](assets/preview_android.gif)
+2. iOS Video : <a href="assets/preview_ios.mov">See Detail</a><br>
+	![Alt Text](assets/preview_ios.gif)
+3. MacOS Video : <a href="assets/preview_macos.mov">See Detail</a><br>
+	![Alt Text](assets/preview_macos.gif)
+4. Web Video : <a href="assets/preview_web.mov">See Detail</a><br>
+	![Alt Text](assets/preview_web.gif)
 
 ## Demo Application
 1. Android Version (*.apk) : <a href="assets/mobile.dmg">Download Here</a><br>
