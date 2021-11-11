@@ -25,6 +25,9 @@ You can see the preview videos on assets folder. Pleaes download and check them.
 4. Web Version: If you support your cpanel, I will build that test version.
 	For now, you can check that through video.
 
+## MacOS Version Install Guide
+![alt text](assets/macos_01.png) ![alt text](assets/macos_02.png) ![alt text](assets/macos_03.png)
+
 ## Contact Us
 1. Email : bgold1118@gmail.com
 2. Skype ID: black.gold89@outlook.com
